@@ -1,6 +1,6 @@
 {
-	"name": "qr-code-scanner",
-	"description": "QR Code Scanner is the fastest and most user-friendly web application.",
+	"name": "gd-wellnest-client",
+	"description": "GD Wellnest is the fastest and most user-friendly web application.",
 	"version": "1.0.0",
 	"scripts": {
 		"start": "webpack-dev-server --hot --inline --open --mode=development",
